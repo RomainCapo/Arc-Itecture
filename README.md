@@ -4,7 +4,7 @@ The goal of Arc-Itecture, is to easily realize two-dimensional architectural pla
 
 ## Context
 
-Project done during the 6rd Bachelor semester in .NET course.
+Project done during the 6th Bachelor semester in .NET course.
 
 ## Team
 
